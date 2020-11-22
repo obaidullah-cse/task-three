@@ -1,0 +1,40 @@
+.row{
+    padding: 100px 0;
+}
+.management{
+    color: #20B1FF;
+}
+.reputation{
+    padding: 30px 40px 0 20px;
+}
+.accordion{
+    margin-right: 50px;
+}
+.card-header{
+    padding: 0;
+}
+
+element.style {
+}
+.card-body{
+	padding:10px;
+}
+.btn-link{
+    color: #1E1E1E;
+    font-weight: 600;
+    text-decoration: none;
+}
+.btn-link:hover{
+    text-decoration: none;
+    color: #1E1E1E;
+}
+.btn-link:focus{
+    text-decoration: none;
+    color: #1E1E1E;
+}
+.collapse{
+	border-bottom: 1px solid rgb(228, 228, 228);
+}
+.icon-rotate{
+    color: #6D6D6D;
+}
